@@ -1,0 +1,28 @@
+/home/dipak/auto_backup_config_1.txt deleted
+/home/dipak/dipak-TravelMate-P2410-G2-M1.AUD deleted
+/home/dipak/dipak-TravelMate-P2410-G2-MA.AUD deleted
+auto_backup_config_1.txt copied
+Read permission for /home/dipak/auto_backup_config_1.txt is added
+/home/dipak/
+1.AUD copied
+1.AUD renamed to dipak-TravelMate-P2410-G2-M1.AUD
+Read permission for /home/dipak/dipak-TravelMate-P2410-G2-M1.AUD is added
+/home/dipak/
+A.AUD copied
+A.AUD renamed to dipak-TravelMate-P2410-G2-MA.AUD
+Read permission for /home/dipak/dipak-TravelMate-P2410-G2-MA.AUD is added
+/home/dipak/auto_backup_config_1.txt deleted
+/home/dipak/dipak-TravelMate-P2410-G2-M1.AUD deleted
+/home/dipak/dipak-TravelMate-P2410-G2-MA.AUD deleted
+auto_backup_config_1.txt copied
+Read permission for /home/dipak/auto_backup_config_1.txt is added
+/home/dipak/
+1.AUD copied
+1.AUD renamed to dipak-TravelMate-P2410-G2-M1.AUD
+Read permission for /home/dipak/dipak-TravelMate-P2410-G2-M1.AUD is added
+/home/dipak/
+A.AUD copied
+A.AUD renamed to dipak-TravelMate-P2410-G2-MA.AUD
+Read permission for /home/dipak/dipak-TravelMate-P2410-G2-MA.AUD is added
+/home/dipak/dipak-TravelMate-P2410-G2-M1.AUD deleted
+/home/dipak/dipak-TravelMate-P2410-G2-MA.AUD deleted
