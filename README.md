@@ -5,5 +5,5 @@ README.md
 	2.auditfile_backup.sh - This file is used to pull .AUD and .SYS data from all the SBC listed in a ip.txt file.  
 	3.autobackup_script.sh - This file is used to pull config data from all the SBC listed in a ip.txt file.
 	4.log.txt - It has log of all the action taken by scripts auditfile_backup.sh and autobackup_script.sh
-	5.Ip.txt - list of ip from where server need to pull data.
+	5.Ip.txt - list of ip from where server can pull data.
 	
